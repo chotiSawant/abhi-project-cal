@@ -1,2 +1,2 @@
-# abhi-project-cal
-shell scripting example project
+# 
+Azure environment creation project
